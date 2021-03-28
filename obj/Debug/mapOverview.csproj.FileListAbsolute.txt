@@ -1,0 +1,54 @@
+C:\Users\Praktikant\mapoverview\mapOverview\bin\Debug\mapOverview.exe.config
+C:\Users\Praktikant\mapoverview\mapOverview\bin\Debug\mapOverview.exe
+C:\Users\Praktikant\mapoverview\mapOverview\bin\Debug\mapOverview.pdb
+C:\Users\Praktikant\mapoverview\mapOverview\obj\Debug\mapOverview.csprojAssemblyReference.cache
+C:\Users\Praktikant\mapoverview\mapOverview\obj\Debug\MainWindow.g.cs
+C:\Users\Praktikant\mapoverview\mapOverview\obj\Debug\App.g.cs
+C:\Users\Praktikant\mapoverview\mapOverview\obj\Debug\mapOverview_MarkupCompile.cache
+C:\Users\Praktikant\mapoverview\mapOverview\obj\Debug\mapOverview_MarkupCompile.lref
+C:\Users\Praktikant\mapoverview\mapOverview\obj\Debug\MainWindow.baml
+C:\Users\Praktikant\mapoverview\mapOverview\obj\Debug\mapOverview.g.resources
+C:\Users\Praktikant\mapoverview\mapOverview\obj\Debug\mapOverview.Properties.Resources.resources
+C:\Users\Praktikant\mapoverview\mapOverview\obj\Debug\mapOverview.csproj.GenerateResource.cache
+C:\Users\Praktikant\mapoverview\mapOverview\obj\Debug\mapOverview.csproj.CoreCompileInputs.cache
+C:\Users\Praktikant\mapoverview\mapOverview\obj\Debug\mapOverview.exe
+C:\Users\Praktikant\mapoverview\mapOverview\obj\Debug\mapOverview.pdb
+C:\Users\Praktikant\mapoverview\mapOverview\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\Praktikant\mapoverview\mapOverview\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\Praktikant\mapoverview\mapOverview\obj\Debug\mapOverview.csproj.CopyComplete
+C:\Users\Praktikant\Desktop\mapoverview mit Bing\mapoverview-0d9bc8471cbb616e964d69418f82d8147b423be6\mapOverview\bin\Debug\mapOverview.exe.config
+C:\Users\Praktikant\Desktop\mapoverview mit Bing\mapoverview-0d9bc8471cbb616e964d69418f82d8147b423be6\mapOverview\bin\Debug\mapOverview.exe
+C:\Users\Praktikant\Desktop\mapoverview mit Bing\mapoverview-0d9bc8471cbb616e964d69418f82d8147b423be6\mapOverview\bin\Debug\mapOverview.pdb
+C:\Users\Praktikant\Desktop\mapoverview mit Bing\mapoverview-0d9bc8471cbb616e964d69418f82d8147b423be6\mapOverview\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\Praktikant\Desktop\mapoverview mit Bing\mapoverview-0d9bc8471cbb616e964d69418f82d8147b423be6\mapOverview\obj\Debug\mapOverview.csprojAssemblyReference.cache
+C:\Users\Praktikant\Desktop\mapoverview mit Bing\mapoverview-0d9bc8471cbb616e964d69418f82d8147b423be6\mapOverview\obj\Debug\MainWindow.g.cs
+C:\Users\Praktikant\Desktop\mapoverview mit Bing\mapoverview-0d9bc8471cbb616e964d69418f82d8147b423be6\mapOverview\obj\Debug\App.g.cs
+C:\Users\Praktikant\Desktop\mapoverview mit Bing\mapoverview-0d9bc8471cbb616e964d69418f82d8147b423be6\mapOverview\obj\Debug\mapOverview_MarkupCompile.cache
+C:\Users\Praktikant\Desktop\mapoverview mit Bing\mapoverview-0d9bc8471cbb616e964d69418f82d8147b423be6\mapOverview\obj\Debug\mapOverview_MarkupCompile.lref
+C:\Users\Praktikant\Desktop\mapoverview mit Bing\mapoverview-0d9bc8471cbb616e964d69418f82d8147b423be6\mapOverview\obj\Debug\MainWindow.baml
+C:\Users\Praktikant\Desktop\mapoverview mit Bing\mapoverview-0d9bc8471cbb616e964d69418f82d8147b423be6\mapOverview\obj\Debug\mapOverview.g.resources
+C:\Users\Praktikant\Desktop\mapoverview mit Bing\mapoverview-0d9bc8471cbb616e964d69418f82d8147b423be6\mapOverview\obj\Debug\mapOverview.Properties.Resources.resources
+C:\Users\Praktikant\Desktop\mapoverview mit Bing\mapoverview-0d9bc8471cbb616e964d69418f82d8147b423be6\mapOverview\obj\Debug\mapOverview.csproj.GenerateResource.cache
+C:\Users\Praktikant\Desktop\mapoverview mit Bing\mapoverview-0d9bc8471cbb616e964d69418f82d8147b423be6\mapOverview\obj\Debug\mapOverview.csproj.CoreCompileInputs.cache
+C:\Users\Praktikant\Desktop\mapoverview mit Bing\mapoverview-0d9bc8471cbb616e964d69418f82d8147b423be6\mapOverview\obj\Debug\mapOverview.csproj.CopyComplete
+C:\Users\Praktikant\Desktop\mapoverview mit Bing\mapoverview-0d9bc8471cbb616e964d69418f82d8147b423be6\mapOverview\obj\Debug\mapOverview.exe
+C:\Users\Praktikant\Desktop\mapoverview mit Bing\mapoverview-0d9bc8471cbb616e964d69418f82d8147b423be6\mapOverview\obj\Debug\mapOverview.pdb
+C:\Users\Praktikant\mapoverview\mapOverview\bin\Debug\Kreisgrenzen.kml
+C:\Users\Kevin\Desktop\mapoverview-workfolder\mapoverview-workfolder\mapOverview\bin\Debug\Kreisgrenzen.kml
+C:\Users\Kevin\Desktop\mapoverview-workfolder\mapoverview-workfolder\mapOverview\bin\Debug\mapOverview.exe.config
+C:\Users\Kevin\Desktop\mapoverview-workfolder\mapoverview-workfolder\mapOverview\bin\Debug\mapOverview.exe
+C:\Users\Kevin\Desktop\mapoverview-workfolder\mapoverview-workfolder\mapOverview\bin\Debug\mapOverview.pdb
+C:\Users\Kevin\Desktop\mapoverview-workfolder\mapoverview-workfolder\mapOverview\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\Kevin\Desktop\mapoverview-workfolder\mapoverview-workfolder\mapOverview\obj\Debug\mapOverview.csprojAssemblyReference.cache
+C:\Users\Kevin\Desktop\mapoverview-workfolder\mapoverview-workfolder\mapOverview\obj\Debug\MainWindow.g.cs
+C:\Users\Kevin\Desktop\mapoverview-workfolder\mapoverview-workfolder\mapOverview\obj\Debug\App.g.cs
+C:\Users\Kevin\Desktop\mapoverview-workfolder\mapoverview-workfolder\mapOverview\obj\Debug\mapOverview_MarkupCompile.cache
+C:\Users\Kevin\Desktop\mapoverview-workfolder\mapoverview-workfolder\mapOverview\obj\Debug\mapOverview_MarkupCompile.lref
+C:\Users\Kevin\Desktop\mapoverview-workfolder\mapoverview-workfolder\mapOverview\obj\Debug\MainWindow.baml
+C:\Users\Kevin\Desktop\mapoverview-workfolder\mapoverview-workfolder\mapOverview\obj\Debug\mapOverview.g.resources
+C:\Users\Kevin\Desktop\mapoverview-workfolder\mapoverview-workfolder\mapOverview\obj\Debug\mapOverview.Properties.Resources.resources
+C:\Users\Kevin\Desktop\mapoverview-workfolder\mapoverview-workfolder\mapOverview\obj\Debug\mapOverview.csproj.GenerateResource.cache
+C:\Users\Kevin\Desktop\mapoverview-workfolder\mapoverview-workfolder\mapOverview\obj\Debug\mapOverview.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\mapoverview-workfolder\mapoverview-workfolder\mapOverview\obj\Debug\mapOverview.csproj.CopyComplete
+C:\Users\Kevin\Desktop\mapoverview-workfolder\mapoverview-workfolder\mapOverview\obj\Debug\mapOverview.exe
+C:\Users\Kevin\Desktop\mapoverview-workfolder\mapoverview-workfolder\mapOverview\obj\Debug\mapOverview.pdb
